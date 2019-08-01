@@ -1,8 +1,8 @@
 name: proxy_network_image
 description: proxy network image
 version: 0.0.1
-author: guangjing<guangjingfeng@gmail.com>
-homepage: https://github.com/guangjingfenggmail/proxy_network_image.git
+author: tangtang<3352134221@qq.com>
+homepage: https://github.com/tangtang-feng/proxy_network_image.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
